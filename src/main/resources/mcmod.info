@@ -1,0 +1,15 @@
+[
+{
+  "modid": "maniproc1",
+  "name": "Manipulation Protector",
+  "description": "A mod to protect users from falling to bazaar manipulation on hypixel skyblock.",
+  "version": "${1.0}",
+  "mcversion": "${1.8.9}",
+  "url": "www.youtube.com/@MashClash",
+  "updateUrl": "https://github.com/MashClashXD/ManipulatorProtector/",
+  "authorList": ["MashClash"],
+  "credits": "to me",
+  "logoFile": "",
+  "screenshots": []
+}
+]
