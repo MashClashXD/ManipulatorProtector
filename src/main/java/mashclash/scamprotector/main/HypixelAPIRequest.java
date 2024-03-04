@@ -13,7 +13,7 @@ import java.util.Map;
 
 public class HypixelAPIRequest {
 
-    private static final String API_KEY = "353be7a2-d877-4446-9bd1-ef7d99be3f6f"; // Replace with your actual API key
+    private static final String API_KEY = "API-KEY"; // Replace with your actual API key
     private static Map<String, Double> cachedPrices = new HashMap<String, Double>();
     private static String cachedBazaarJSON = null;
     private static String cachedItemsJSON = null;
