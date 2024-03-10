@@ -17,7 +17,10 @@ public class ItemTooltipEventHandler {
             "\u00a7aBuy only \u00a7eone\u00a7a!",
             "\u00a7aBuy a stack\u00a7a!",
             "\u00a7aFill my inventory!",
-            "\u00a7aCustom Amount"
+            "\u00a7aCustom Amount",
+            "\u00a7aBuy \u00a7e1\u00a7a!",
+            "\u00a7aBuy \u00a7e3\u00a7a!",
+            "\u00a7aBuy \u00a7e9\u00a7a!"
     );
 
     private String previousType; // Declaring previousType as a global variable
